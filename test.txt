@@ -1,2 +1,2 @@
 testing
-not a new line
+not new line
